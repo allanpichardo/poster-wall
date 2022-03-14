@@ -1,0 +1,10 @@
+{
+    "require": {
+        "wpackio/enqueue": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Posterwall\\Wp\\": "inc/posterwall/wp/"
+        }
+    }
+}
