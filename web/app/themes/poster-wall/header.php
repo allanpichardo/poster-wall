@@ -12,7 +12,7 @@
             <header class="header">
                 <nav aria-label="Login Menu">
                     <ul class="login-menu">
-                        <li><a href="#">Poster Wall</a></li>
+                        <li><a href="#">posterwall</a></li>
                         <li><a href="#">Register</a></li>
                         <li><a href="#">Login</a></li>
                     </ul>
